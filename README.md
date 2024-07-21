@@ -2,4 +2,5 @@
 
 This is batch 7 and 9. <br>
 We are working on Git and Git Branches. <BR>
-Git is an interesting topic
+Git is an interesting topic <br>
+this line is inserted from local machine
